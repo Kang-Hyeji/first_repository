@@ -1,0 +1,18 @@
+{
+	"students": [
+		{
+			"name": "강혜지",
+			"age": "24",
+			"job": "student",
+			"id": "hj",
+			"pw": "1234"
+		},
+		{
+			"name": "전지현",
+			"age": "26",
+			"job": "teacher",
+			"id": "jh",
+			"pw": "3456"
+		}
+	]
+}
